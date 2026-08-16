@@ -19,12 +19,6 @@ public class InfixToPostfix {
         map.put('(', 0);
         map.put(')', 0);
 
-        // a-z : 97-122
-        // + : 43
-        // - : 45
-        // * : 42
-        // / : 47
-        // ^ : 94
         for(int i = 0; i < infix.length(); i++) {
             char c = infix.charAt(i);
             if(!map.containsKey(c)){ // any Alphabet

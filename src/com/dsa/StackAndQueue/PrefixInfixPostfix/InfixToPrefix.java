@@ -24,7 +24,7 @@ public class InfixToPrefix {
         map.put(')', 0);
         int i = 0;
         StringBuilder str = new StringBuilder();
-        for(int j = infix.length() -1 ; j >= 0; j--){
+        for(int j = infix.length() - 1 ; j >= 0; j--){
             if(infix.charAt(j) == '(')
                 str.append(')');
             else if(infix.charAt(j) == ')')
