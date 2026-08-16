@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5718d45-3680-48fa-8b50-5e2592ce6350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/Recursion/CombinationSum2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +35,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BalancedParenthesis.executor": "Run",
     "Application.CountPrimeNumbersInRange.executor": "Run",
+    "Application.Executor.executor": "Debug",
+    "Application.InfixToPostfix.executor": "Run",
+    "Application.InfixToPrefix.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.PostfixToPrefix.executor": "Run",
+    "Application.PrefixTOPostfix.executor": "Run",
+    "Application.PrefixToInfix.executor": "Debug",
+    "Application.QueueUsingStack.executor": "Run",
+    "Application.StackUsingArray.executor": "Run",
+    "Application.StackUsingLinkedList.executor": "Debug",
+    "Application.StackUsingQueue.executor": "Debug",
     "Application.SwapTwoNumbers.executor": "Run",
+    "Application.countDigits.executor": "Run",
     "Application.power.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -72,6 +82,31 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/Executor.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MinStack.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MinStack.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MinStack.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MinStack.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
