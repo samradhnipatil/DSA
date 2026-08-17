@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5718d45-3680-48fa-8b50-5e2592ce6350" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixTOPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixToPostfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixTOPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixTOPostfix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,10 @@
     "Application.InfixToPostfix.executor": "Run",
     "Application.InfixToPrefix.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NextGreaterElementII.executor": "Run",
+    "Application.NextSmallerElement.executor": "Run",
+    "Application.NumberOfGreaterElementsToTheRight.executor": "Run",
     "Application.PostfixToInfix.executor": "Run",
     "Application.PostfixToPrefix.executor": "Run",
     "Application.PrefixTOPostfix.executor": "Run",
@@ -53,6 +56,7 @@
     "Application.StackUsingLinkedList.executor": "Debug",
     "Application.StackUsingQueue.executor": "Debug",
     "Application.SwapTwoNumbers.executor": "Run",
+    "Application.TrappingRainWater.executor": "Run",
     "Application.countDigits.executor": "Run",
     "Application.power.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
