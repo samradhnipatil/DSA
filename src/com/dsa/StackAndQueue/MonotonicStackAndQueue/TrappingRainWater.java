@@ -3,7 +3,7 @@ package com.dsa.StackAndQueue.MonotonicStackAndQueue;
 public class TrappingRainWater {
 
     public static void main(String[] args) {
-        int[] build = { 7, 4, 0, 9 };
+        int[] build = { 4,8,5,2,25 };
         System.out.println(calculateTrappedRainWater(build));
     }
 

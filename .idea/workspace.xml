@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a5718d45-3680-48fa-8b50-5e2592ce6350" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/InfixToPostfix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixTOPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/PrefixInfixPostfix/PrefixTOPostfix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/MonotonicStackAndQueue/NextSmallerElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/MonotonicStackAndQueue/NextSmallerElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/MonotonicStackAndQueue/TrappingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/com/dsa/StackAndQueue/MonotonicStackAndQueue/TrappingRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/NextSmallerElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/NextSmallerElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/TrappingRainWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AsteroidCollision.executor": "Run",
     "Application.BalancedParenthesis.executor": "Run",
     "Application.CountPrimeNumbersInRange.executor": "Run",
     "Application.Executor.executor": "Debug",
@@ -55,6 +58,8 @@
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Debug",
     "Application.StackUsingQueue.executor": "Debug",
+    "Application.SumOfRangesInSubarray.executor": "Run",
+    "Application.SumOfSubArrayMinimums.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.countDigits.executor": "Run",

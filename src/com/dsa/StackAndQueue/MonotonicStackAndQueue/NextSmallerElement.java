@@ -4,7 +4,8 @@ import java.util.*;
 
 public class NextSmallerElement {
     public static void main(String[] args) {
-        int[] arr = {4,8,5,2,25};
+        int[] arr = {1,4,6,7,3,7,8,1};
+        System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(getNextSmallerElement(arr)));
     }
 
