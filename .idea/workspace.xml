@@ -50,6 +50,7 @@
     "Application.LongestSubStringWithoutRepeatingChars.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxConsecutiveOnesIII.executor": "Run",
+    "Application.MaximumPointsObtainedFromCards.executor": "Run",
     "Application.MaximumRectangles.executor": "Run",
     "Application.NextGreaterElement.executor": "Run",
     "Application.NextGreaterElementII.executor": "Run",
@@ -64,10 +65,11 @@
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Debug",
     "Application.StackUsingQueue.executor": "Debug",
+    "Application.SubStringsContainingAllThreeChars.executor": "Run",
     "Application.SumOfRangesInSubarray.executor": "Run",
     "Application.SumOfSubArrayMinimums.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
-    "Application.TheNiceArray.executor": "Debug",
+    "Application.TheNiceArray.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.countDigits.executor": "Run",
     "Application.power.executor": "Run",
@@ -136,11 +138,6 @@
           <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/LFUCache.java</url>
           <line>48</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dsa/SlidingWindow_TwoPointer/TheNiceArray.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
