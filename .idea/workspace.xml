@@ -47,6 +47,7 @@
     "Application.LRUCache.executor": "Run",
     "Application.LargestRectangleInAHistogram.executor": "Debug",
     "Application.LongestRepeatingCharacterReplacement.executor": "Run",
+    "Application.LongestSubStringWIthAtMostKDistinctChars.executor": "Run",
     "Application.LongestSubStringWithoutRepeatingChars.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxConsecutiveOnesIII.executor": "Run",
@@ -65,6 +66,7 @@
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Debug",
     "Application.StackUsingQueue.executor": "Debug",
+    "Application.SubArraysWithKDifferentIntegers.executor": "Run",
     "Application.SubStringsContainingAllThreeChars.executor": "Run",
     "Application.SumOfRangesInSubarray.executor": "Run",
     "Application.SumOfSubArrayMinimums.executor": "Run",
@@ -138,6 +140,11 @@
           <url>file://$PROJECT_DIR$/src/com/dsa/StackAndQueue/MonotonicStackAndQueue/LFUCache.java</url>
           <line>48</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/SlidingWindow_TwoPointer/SubArraysWithKDifferentIntegers.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
