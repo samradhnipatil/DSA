@@ -38,11 +38,15 @@
     "Application.AsteroidCollision.executor": "Run",
     "Application.BalancedParenthesis.executor": "Run",
     "Application.BinarySubArrayWithSum.executor": "Run",
+    "Application.CheckIfArrayIsAMinHeap.executor": "Run",
+    "Application.ConvertAMinHeapToMaxHeap.executor": "Run",
     "Application.CountPrimeNumbersInRange.executor": "Run",
     "Application.Executor.executor": "Debug",
     "Application.FruitsInABasket.executor": "Run",
+    "Application.ImplementMinHeap.executor": "Debug",
     "Application.InfixToPostfix.executor": "Run",
     "Application.InfixToPrefix.executor": "Debug",
+    "Application.KthLargestElementInAnArray.executor": "Debug",
     "Application.LFUCache.executor": "Run",
     "Application.LRUCache.executor": "Run",
     "Application.LargestRectangleInAHistogram.executor": "Debug",
@@ -53,6 +57,8 @@
     "Application.MaxConsecutiveOnesIII.executor": "Run",
     "Application.MaximumPointsObtainedFromCards.executor": "Run",
     "Application.MaximumRectangles.executor": "Run",
+    "Application.MinimumWindowSubSequence.executor": "Run",
+    "Application.MinimumWindowSubString.executor": "Run",
     "Application.NextGreaterElement.executor": "Run",
     "Application.NextGreaterElementII.executor": "Run",
     "Application.NextSmallerElement.executor": "Run",
@@ -142,9 +148,44 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dsa/SlidingWindow_TwoPointer/SubArraysWithKDifferentIntegers.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/src/com/dsa/SlidingWindow_TwoPointer/MinimumWindowSubString.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/ImplementMinHeap.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/CheckIfArrayIsAMinHeap.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/ConvertAMinHeapToMaxHeap.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/ConvertAMinHeapToMaxHeap.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/KthLargestElementInAnArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/KthLargestElementInAnArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Heap/KthLargestElementInAnArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
