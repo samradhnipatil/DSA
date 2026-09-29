@@ -39,6 +39,7 @@
     "Application.BalancedParenthesis.executor": "Run",
     "Application.BinarySubArrayWithSum.executor": "Run",
     "Application.CheckIfArrayIsAMinHeap.executor": "Run",
+    "Application.ConnectedComponents.executor": "Run",
     "Application.ConvertAMinHeapToMaxHeap.executor": "Run",
     "Application.CountPrimeNumbersInRange.executor": "Run",
     "Application.Executor.executor": "Debug",
@@ -46,6 +47,7 @@
     "Application.FruitsInABasket.executor": "Run",
     "Application.HandOfStraights.executor": "Debug",
     "Application.ImplementMinHeap.executor": "Debug",
+    "Application.Implement_DFS_BFS.executor": "Run",
     "Application.InfixToPostfix.executor": "Run",
     "Application.InfixToPrefix.executor": "Debug",
     "Application.KthLargestElementInAnArray.executor": "Debug",
@@ -68,6 +70,8 @@
     "Application.NextGreaterElement.executor": "Run",
     "Application.NextGreaterElementII.executor": "Run",
     "Application.NextSmallerElement.executor": "Run",
+    "Application.NoOfEnclaves.executor": "Run",
+    "Application.NoOfProvinces.executor": "Debug",
     "Application.NumberOfGreaterElementsToTheRight.executor": "Run",
     "Application.PostfixToInfix.executor": "Run",
     "Application.PostfixToPrefix.executor": "Run",
@@ -76,6 +80,7 @@
     "Application.QueueUsingStack.executor": "Run",
     "Application.RemoveKDigit.executor": "Run",
     "Application.ReplaceElementsByTheirRanks.executor": "Run",
+    "Application.RottenOranges.executor": "Debug",
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Debug",
     "Application.StackUsingQueue.executor": "Debug",
@@ -83,6 +88,7 @@
     "Application.SubStringsContainingAllThreeChars.executor": "Run",
     "Application.SumOfRangesInSubarray.executor": "Run",
     "Application.SumOfSubArrayMinimums.executor": "Run",
+    "Application.SurroundedRegion.executor": "Debug",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.TheNiceArray.executor": "Run",
     "Application.TopKFrequentElements.executor": "Debug",
@@ -210,6 +216,41 @@
           <url>file://$PROJECT_DIR$/src/com/dsa/Heap/TopKFrequentElements.java</url>
           <line>27</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/Implement_DFS_BFS.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/ConnectedComponents.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/NoOfProvinces.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/NoOfProvinces.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/NoOfEnclaves.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/RottenOranges.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/SurroundedRegion.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
