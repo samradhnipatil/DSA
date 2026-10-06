@@ -38,18 +38,22 @@
     "Application.AsteroidCollision.executor": "Run",
     "Application.BalancedParenthesis.executor": "Run",
     "Application.BinarySubArrayWithSum.executor": "Run",
+    "Application.BipartiteGraph.executor": "Debug",
     "Application.CheckIfArrayIsAMinHeap.executor": "Run",
     "Application.ConnectedComponents.executor": "Run",
     "Application.ConvertAMinHeapToMaxHeap.executor": "Run",
     "Application.CountPrimeNumbersInRange.executor": "Run",
+    "Application.DetectACycleInUndirectedGraph.executor": "Run",
     "Application.Executor.executor": "Debug",
     "Application.FindMedianOfTheStream.executor": "Run",
+    "Application.FindMinimumPath.executor": "Run",
     "Application.FruitsInABasket.executor": "Run",
     "Application.HandOfStraights.executor": "Debug",
     "Application.ImplementMinHeap.executor": "Debug",
     "Application.Implement_DFS_BFS.executor": "Run",
     "Application.InfixToPostfix.executor": "Run",
     "Application.InfixToPrefix.executor": "Debug",
+    "Application.KahnsAlgo_topologicalSort.executor": "Run",
     "Application.KthLargestElementInAnArray.executor": "Debug",
     "Application.KthSmallestElementInAnArray.executor": "Run",
     "Application.LFUCache.executor": "Run",
@@ -70,6 +74,7 @@
     "Application.NextGreaterElement.executor": "Run",
     "Application.NextGreaterElementII.executor": "Run",
     "Application.NextSmallerElement.executor": "Run",
+    "Application.NoOfDistinctIslands.executor": "Debug",
     "Application.NoOfEnclaves.executor": "Run",
     "Application.NoOfProvinces.executor": "Debug",
     "Application.NumberOfGreaterElementsToTheRight.executor": "Run",
@@ -88,7 +93,7 @@
     "Application.SubStringsContainingAllThreeChars.executor": "Run",
     "Application.SumOfRangesInSubarray.executor": "Run",
     "Application.SumOfSubArrayMinimums.executor": "Run",
-    "Application.SurroundedRegion.executor": "Debug",
+    "Application.SurroundedRegion.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.TheNiceArray.executor": "Run",
     "Application.TopKFrequentElements.executor": "Debug",
@@ -248,9 +253,14 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/SurroundedRegion.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="65" />
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/NoOfDistinctIslands.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/BipartiteGraph.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
