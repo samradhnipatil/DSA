@@ -40,6 +40,7 @@
     "Application.BalancedParenthesis.executor": "Run",
     "Application.BinarySubArrayWithSum.executor": "Run",
     "Application.BipartiteGraph.executor": "Debug",
+    "Application.CheapestFlightWIthInKStops.executor": "Run",
     "Application.CheckIfArrayIsAMinHeap.executor": "Run",
     "Application.ConnectedComponents.executor": "Run",
     "Application.ConvertAMinHeapToMaxHeap.executor": "Run",
@@ -75,6 +76,7 @@
     "Application.MaximumSumCombination.executor": "Run",
     "Application.MergeKSortedLists.executor": "Run",
     "Application.MinimumCostToConnectSticks.executor": "Run",
+    "Application.MinimumMultiplicationsToReachEnd.executor": "Run",
     "Application.MinimumWindowSubSequence.executor": "Run",
     "Application.MinimumWindowSubString.executor": "Run",
     "Application.NextGreaterElement.executor": "Run",
@@ -84,6 +86,7 @@
     "Application.NoOfEnclaves.executor": "Run",
     "Application.NoOfProvinces.executor": "Debug",
     "Application.NumberOfGreaterElementsToTheRight.executor": "Run",
+    "Application.NumberOfWaysToArriveAtDestination.executor": "Debug",
     "Application.PostfixToInfix.executor": "Run",
     "Application.PostfixToPrefix.executor": "Run",
     "Application.PrefixTOPostfix.executor": "Run",
@@ -92,6 +95,7 @@
     "Application.RemoveKDigit.executor": "Run",
     "Application.ReplaceElementsByTheirRanks.executor": "Run",
     "Application.RottenOranges.executor": "Debug",
+    "Application.ShortestDistanceInBinaryMatrix.executor": "Run",
     "Application.ShortestPathInDAG.executor": "Debug",
     "Application.ShortestPathInUndirectedGraph.executor": "Debug",
     "Application.StackUsingArray.executor": "Run",
@@ -309,6 +313,21 @@
           <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/FindTheShortestPath_1_n.java</url>
           <line>23</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/ShortestDistanceInBinaryMatrix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/CheapestFlightWIthInKStops.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/Graph_DFS_BFS/MinimumMultiplicationsToReachEnd.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
