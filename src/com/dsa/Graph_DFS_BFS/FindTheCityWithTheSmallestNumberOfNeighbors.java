@@ -1,7 +1,5 @@
 package com.dsa.Graph_DFS_BFS;
 
-import java.util.Arrays;
-
 public class FindTheCityWithTheSmallestNumberOfNeighbors {
 
     public FindTheCityWithTheSmallestNumberOfNeighbors(){}
@@ -20,18 +18,14 @@ public class FindTheCityWithTheSmallestNumberOfNeighbors {
                     dist[i][j] = Integer.MAX_VALUE;
             }
         }
-        int min = 0;
+
         for(int k = 0; k < n; k++){
             for(int i = 0; i < n; i++) {
-                int count = 0;
                 for(int j =0; j < n; j++){
                     if(dist[i][k] != Integer.MAX_VALUE && dist[k][j] != Integer.MAX_VALUE){
                         dist[i][j] = Math.min(dist[i][j], (dist[i][k] + dist[k][j]));
-                        if(dist[i][j] <= threshold)
-                            count++;
                     }
                 }
-                min  = Math.max(min,count);
             }
         }
         int c = 0;
@@ -44,7 +38,7 @@ public class FindTheCityWithTheSmallestNumberOfNeighbors {
             }
             c = Math.max(c, count);
         }
-        System.out.println(min);
+
         return c;
     }
 
